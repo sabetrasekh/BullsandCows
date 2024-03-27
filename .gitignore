@@ -1,0 +1,40 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Bulls and Cows/*
+!/Bulls and Cows/task/
+/Bulls and Cows/task/*
+!/Bulls and Cows/task/src
+
+# Project exclude paths
+/Topics/Access modifiers/Managing a donut store inventory/out/
+/Topics/Access modifiers/Managing a donut store inventory/out/production/classes/
+/Topics/Access modifiers/Managing speed in a car class/out/
+/Topics/Access modifiers/Managing speed in a car class/out/production/classes/
+/Topics/Calling methods/Multiplying an integer by 3/out/
+/Topics/Calling methods/Multiplying an integer by 3/out/production/classes/
+/Topics/Fields and methods in enum/System of units/out/
+/Topics/Fields and methods in enum/System of units/out/production/classes/
+/Topics/Keyword  super/Creating and testing inherited vehicle and car classes/out/
+/Topics/Keyword  super/Creating and testing inherited vehicle and car classes/out/production/classes/
+/Topics/Keyword  super/Fix the non-compiled hierarchy/out/
+/Topics/Keyword  super/Fix the non-compiled hierarchy/out/production/classes/
+/Topics/Overloading/Calculations with two or three numbers from input/out/
+/Topics/Overloading/Calculations with two or three numbers from input/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Overloading/Print/out/
+/Topics/Overloading/Print/out/production/classes/
+/Topics/Overloading/Processing integers and floats differently/out/
+/Topics/Overloading/Processing integers and floats differently/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
